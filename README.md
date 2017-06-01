@@ -7,4 +7,4 @@ div 水平垂直居中的几种常用方法
 - [建一个 react 新项目](https://github.com/txlwll/blog/issues/3)
 
 # 安装电脑
--(https://github.com/txlwll/Notes/issues/4)
+https://github.com/txlwll/Notes/issues/4
